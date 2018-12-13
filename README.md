@@ -14,11 +14,11 @@ Ferramentas necessárias
 Como instalar as ferramentas utilizadas
 ---
 - BIRD
-	- sudo apt-get install bird
+	- apt-get install bird
 - traceroute
-	- sudo apt-get install traceroute
+	- apt-get install traceroute
 - fping	 
-	- sudo apt-get install fping
+	- apt-get install fping
   
 ---
 Como executar o projeto
