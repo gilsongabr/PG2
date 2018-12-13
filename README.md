@@ -57,4 +57,4 @@ Prof. Ronaldo Alves Ferreira - UFMS.
 ---
 Licenças
 ---
-Eu, Gilson Gabriel renuncio a todos os direitos autorais a este projeto.
+Eu, Gilson Gabriel renuncio todos os direitos autorais à este projeto.
